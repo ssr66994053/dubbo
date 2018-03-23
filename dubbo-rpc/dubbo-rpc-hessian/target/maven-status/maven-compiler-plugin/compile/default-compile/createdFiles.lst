@@ -1,0 +1,5 @@
+com\alibaba\dubbo\rpc\protocol\hessian\HessianProtocol$1.class
+com\alibaba\dubbo\rpc\protocol\hessian\HessianProtocol$HessianHandler.class
+com\alibaba\dubbo\rpc\protocol\hessian\HessianProtocol.class
+com\alibaba\dubbo\rpc\protocol\hessian\HttpClientConnection.class
+com\alibaba\dubbo\rpc\protocol\hessian\HttpClientConnectionFactory.class

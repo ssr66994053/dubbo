@@ -19,7 +19,7 @@
 	<parent>
 		<groupId>com.alibaba</groupId>
 		<artifactId>dubbo-registry</artifactId>
-		<version>yiji-2.5.21</version>
+		<version>global-2.5.21</version>
 	</parent>
 	<artifactId>dubbo-registry-api</artifactId>
 	<packaging>jar</packaging>

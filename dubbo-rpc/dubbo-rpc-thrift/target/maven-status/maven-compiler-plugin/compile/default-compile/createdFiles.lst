@@ -1,0 +1,15 @@
+com\alibaba\dubbo\rpc\protocol\thrift\ext\MultiServiceProcessor.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftCodec$RequestData.class
+com\alibaba\dubbo\rpc\protocol\thrift\io\RandomAccessByteArrayOutputStream.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftProtocol.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftCodec.class
+com\alibaba\dubbo\rpc\protocol\thrift\ClassNameGenerator.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftUtils.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftNativeCodec.class
+com\alibaba\dubbo\rpc\protocol\thrift\DubboClassNameGenerator.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftProtocol$1.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftType.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftClassNameGenerator.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftConstants.class
+com\alibaba\dubbo\rpc\protocol\thrift\io\InputStreamWrapper.class
+com\alibaba\dubbo\rpc\protocol\thrift\ThriftInvoker.class

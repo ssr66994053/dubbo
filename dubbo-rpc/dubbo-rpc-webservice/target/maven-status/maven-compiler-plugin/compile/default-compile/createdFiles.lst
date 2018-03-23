@@ -1,0 +1,3 @@
+com\alibaba\dubbo\rpc\protocol\webservice\WebServiceProtocol.class
+com\alibaba\dubbo\rpc\protocol\webservice\WebServiceProtocol$WebServiceHandler.class
+com\alibaba\dubbo\rpc\protocol\webservice\WebServiceProtocol$1.class

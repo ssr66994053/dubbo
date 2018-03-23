@@ -90,30 +90,17 @@
                 <repository>
                     <id>nexus-releases</id>
                     <name>Internal Release Repository</name>
-                    <url>http://192.168.45.35:8081/nexus/content/repositories/releases/</url>
+                    <url>http://192.168.48.41:8081/nexus/content/repositories/releases/</url>
                 </repository>
             </distributionManagement>
         </profile>
-		<profile>
-			<id>fintech</id>
-			<distributionManagement>
-				<repository>
-					<id>yiji-releases</id>
-					<url>http://192.168.45.35:8081/nexus/content/repositories/fintech-releases/</url>
-				</repository>
-				<snapshotRepository>
-					<id>yiji-snapshots</id>
-					<url>http://192.168.45.35:8081/nexus/content/repositories/fintech-snapshots/</url>
-				</snapshotRepository>
-			</distributionManagement>
-		</profile>
         <profile>
             <id>online</id>
             <distributionManagement>
                 <repository>
                     <id>nexus-releases</id>
                     <name>Internal Release Repository</name>
-                    <url>http://192.168.45.199:8081/nexus/content/repositories/releases/</url>
+                    <url>http://192.168.48.41:8081/nexus/content/repositories/releases/</url>
                 </repository>
             </distributionManagement>
         </profile>
@@ -440,6 +427,9 @@
 					</execution>
 				</executions>
 			</plugin>
+			
+			
+			
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-enforcer-plugin</artifactId>
@@ -454,7 +444,7 @@
                         <configuration>
                             <rules>
                                 <requireJavaVersion>
-                                    <version>[1.7,1.8)</version>
+                                    <version>[1.7,1.9)</version>
                                 </requireJavaVersion>
                             </rules>
                         </configuration>
@@ -463,6 +453,8 @@
             </plugin>
 		</plugins>
 
+
+		<!--  
         <pluginManagement>
             <plugins>
                 <plugin>
@@ -497,6 +489,9 @@
                 </plugin>
             </plugins>
         </pluginManagement>
+
+-->
+
 
 	</build>
 

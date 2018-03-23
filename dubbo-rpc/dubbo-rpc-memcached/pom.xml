@@ -19,7 +19,7 @@
 	<parent>
 		<groupId>com.alibaba</groupId>
 		<artifactId>dubbo-rpc</artifactId>
-		<version>yiji-2.5.21</version>
+		<version>global-2.5.21</version>
 	</parent>
 	<artifactId>dubbo-rpc-memcached</artifactId>
 	<packaging>jar</packaging>

@@ -1,0 +1,4 @@
+com\alibaba\dubbo\monitor\dubbo\DubboMonitor.class
+com\alibaba\dubbo\monitor\dubbo\DubboMonitorFactroy.class
+com\alibaba\dubbo\monitor\dubbo\DubboMonitor$1.class
+com\alibaba\dubbo\monitor\dubbo\Statistics.class

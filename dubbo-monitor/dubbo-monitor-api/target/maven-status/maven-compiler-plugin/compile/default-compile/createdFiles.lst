@@ -1,0 +1,5 @@
+com\alibaba\dubbo\monitor\support\MonitorFilter.class
+com\alibaba\dubbo\monitor\MonitorFactory.class
+com\alibaba\dubbo\monitor\MonitorService.class
+com\alibaba\dubbo\monitor\support\AbstractMonitorFactory.class
+com\alibaba\dubbo\monitor\Monitor.class

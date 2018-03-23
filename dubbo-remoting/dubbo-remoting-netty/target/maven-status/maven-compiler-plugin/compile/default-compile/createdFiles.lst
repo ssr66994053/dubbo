@@ -1,0 +1,16 @@
+com\alibaba\dubbo\remoting\transport\netty\NettyClient$1.class
+com\alibaba\dubbo\remoting\transport\netty\NettyServer$1.class
+com\alibaba\dubbo\remoting\transport\netty\NettyCodecAdapter$InternalDecoder.class
+com\alibaba\dubbo\remoting\transport\netty\NettyBackedChannelBuffer.class
+com\alibaba\dubbo\remoting\transport\netty\NettyChannel.class
+com\alibaba\dubbo\remoting\transport\netty\NettyBackedChannelBufferFactory.class
+com\alibaba\dubbo\remoting\transport\netty\NettyCodecAdapter$InternalEncoder.class
+com\alibaba\dubbo\remoting\transport\netty\NettyCodecAdapter$1.class
+com\alibaba\dubbo\remoting\transport\netty\NettyHelper.class
+com\alibaba\dubbo\remoting\transport\netty\NettyHandler.class
+com\alibaba\dubbo\remoting\transport\netty\NettyServer.class
+com\alibaba\dubbo\remoting\transport\netty\NettyClient.class
+com\alibaba\dubbo\remoting\transport\netty\NettyTransporter.class
+com\alibaba\dubbo\remoting\transport\netty\NettyCodecAdapter.class
+com\alibaba\dubbo\remoting\transport\netty\NettyHelper$DubboLogger.class
+com\alibaba\dubbo\remoting\transport\netty\NettyHelper$DubboLoggerFactory.class

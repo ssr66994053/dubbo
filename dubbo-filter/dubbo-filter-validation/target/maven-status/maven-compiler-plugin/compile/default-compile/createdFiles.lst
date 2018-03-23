@@ -1,0 +1,6 @@
+com\alibaba\dubbo\validation\Validation.class
+com\alibaba\dubbo\validation\support\jvalidation\JValidator.class
+com\alibaba\dubbo\validation\filter\ValidationFilter.class
+com\alibaba\dubbo\validation\support\jvalidation\JValidation.class
+com\alibaba\dubbo\validation\Validator.class
+com\alibaba\dubbo\validation\support\AbstractValidation.class

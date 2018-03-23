@@ -1,0 +1,2 @@
+allargs=com.alibaba.dubbo.cache.keygenerator.allargs.AllArgsCacheKeyGenerator
+selective=com.alibaba.dubbo.cache.keygenerator.selective.SelectiveCacheKeyGenerator
